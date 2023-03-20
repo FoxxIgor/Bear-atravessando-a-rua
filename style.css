@@ -1,0 +1,8 @@
+body{
+    background-image: url("Imagens/thumb.jpg");
+    background-size: 100%;
+}
+canvas{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
